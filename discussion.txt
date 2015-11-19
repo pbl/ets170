@@ -1,0 +1,5 @@
+1. Use reqT to keep the list of all requirements and their current state. Sync the files and keep a good version history by using git.
+2. For requirements that is connected with other requirements reqT hepls keep track of them all and their dependecies. ReqT can also output graphs and provides a good framework that the group need to comform to.  
+3. All of the above is lacking in a word processor. The con for reqT is that one needs to be understand reqT in order to use it. Another con for reqT is that if a function outside the scope of the reqT framework is needed it can be very time consuming.
+4. Entities: stakeholder, req, data, service, actor. Attribute: title, exmaple, text, why, cost, benefit. Relationship: has, requires, superOf, relatesTo, excludes. These and possible many more. 
+5. Context diagram, quality requirements, why spec example. 
