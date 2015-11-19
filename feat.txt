@@ -1,0 +1,16 @@
+# studentFeatures
+	* seeFöreläsningarLive
+		Student kan kolla på en live-stream av en föreläsning
+	* loggOn
+		Student får tillgång till systemet.
+	* kommenteraFöreläsning
+		Studen kan kommentera upplagda föreläsningar
+	* liveChatta
+		Studenter kan under live-streams prata under en chat
+		
+# föreläsarFeature
+	* läggaUppFöreläsningar
+		En lärare kan i efterhand lägga upp en video på sidan.
+	* seFrågorFrånchatten
+		En föreläsare ska på ett enkelt sätt under föreläsningen
+		se frågor riktade till sig.
