@@ -1,0 +1,7 @@
+1. Ordinal priority is simpler and provides a an easy list to interpret. Therfore easier for noobs. The 100 dollar scale gives more information and also gives the weight of each requirement which could be important.
+2. They both scale pretty badly. The 100 dollar method can scale better if a the acting customer get a larger sum of money but the puzzle quite fast becomes very complex. Ordinal priority scales a bit better since you only have to postition it in the right postition. It is also much easier if the list is updated continously. 
+3. Ordinal priority carries out better for incremental additions. 
+4. The 100 dollar method.
+5. See questions above. 
+6. Yes
+7. It is hard to add to a hundred.
