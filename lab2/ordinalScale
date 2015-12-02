@@ -1,0 +1,6 @@
+Model(
+    Req(" playVideo ") has Benefit(18), 
+    Req(" lectureSlides ") has Benefit(14), 
+    Req(" stilLogin ") has Benefit(10), 
+    Req(" courseInfo ") has Benefit(8), 
+    Req(" coursePage ") has Benefit(10))
